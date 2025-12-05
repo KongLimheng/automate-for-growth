@@ -2,6 +2,12 @@
 
 This section contains all the templates, checklists, code examples, and additional resources to support your content automation journey.
 
+## 📱 Connect With Me
+
+- **[📘 Follow Me on Facebook](./FOLLOW-ME.md)** - Get daily tips, updates, and exclusive content automation strategies!
+
+---
+
 ## Platform Links
 
 ### Main Resources
@@ -652,4 +658,20 @@ You now have all the resources needed to succeed with content automation. Return
 5. Monitor and optimize based on results
 
 Good luck with your content automation journey!
+
+---
+
+## 📱 Connect With Me
+
+<div align="center">
+
+### [👉 Follow Me on Facebook](https://www.facebook.com/chris.porter.7731)
+
+[![Follow on Facebook](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1764955188913-Screenshot%202025-12-05%20121938.png?alt=media&token=51573aeb-6618-4970-ab10-39e8099d0c23)](https://www.facebook.com/chris.porter.7731)
+
+*Get daily tips, updates, and exclusive content automation strategies!*
+
+*Last Updated: 2025*
+
+</div>
 

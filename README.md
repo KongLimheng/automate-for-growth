@@ -401,6 +401,24 @@ A: Each module includes troubleshooting guides and best practices.
 
 **Made with ❤️ for content creators who want to scale**
 
-*Last Updated: 2024*
+*Last Updated: 2025*
+
+---
+
+## 📱 Follow Me on Facebook
+
+<div align="center">
+
+### Connect with me on Facebook for more content automation tips and updates!
+
+[![Follow on Facebook](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1764955188913-Screenshot%202025-12-05%20121938.png?alt=media&token=51573aeb-6618-4970-ab10-39e8099d0c23)](https://www.facebook.com/chris.porter.7731)
+
+**[👉 Follow Me on Facebook](https://www.facebook.com/chris.porter.7731)**
+
+*Get daily tips, updates, and exclusive content automation strategies!*
+
+---
+
+</div>
 
 </div>
