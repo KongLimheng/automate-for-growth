@@ -87,6 +87,13 @@
 
 Get **15% off each month** for your first 3 months on any plan!
 
+**Applies to:**
+- ✅ Starter Plan
+- ✅ Pro Plan
+- ✅ Powerhouse Plan
+
+**[👉 Get Started with Special Offer →](https://viralwavestudio.com/subscriptions)**
+
 ---
 
 </div>
@@ -100,6 +107,7 @@ Get **15% off each month** for your first 3 months on any plan!
 - Basic content generation features
 - Limited monthly tokens
 - Single social media account connections
+- **🎁 Use coupon code WELCOME15 for 15% off first 3 months!**
 - **Great for:** Beginners, solopreneurs, small businesses
 
 #### 🔵 Pro Plan
@@ -108,6 +116,7 @@ Get **15% off each month** for your first 3 months on any plan!
 - Higher token allocation
 - Multiple account connections
 - Brand Authority features included
+- **🎁 Use coupon code WELCOME15 for 15% off first 3 months!**
 - **Great for:** Content creators, small businesses, growing brands
 
 #### 🟣 Powerhouse Plan
@@ -116,6 +125,7 @@ Get **15% off each month** for your first 3 months on any plan!
 - Highest token allocation
 - Priority support
 - API access included
+- **🎁 Use coupon code WELCOME15 for 15% off first 3 months!**
 - **Great for:** Agencies, large businesses, high-volume creators
 
 </div>
@@ -135,6 +145,8 @@ You can get started with ViralWave Studio completely free!
 - ✅ **Buy Tokens Only**: Purchase tokens without a subscription
 - ✅ **Flexible Options**: Choose what works for you
 
+**[👉 Get Started for Free →](https://viralwavestudio.com)**
+
 ---
 
 </div>
@@ -143,12 +155,22 @@ You can get started with ViralWave Studio completely free!
 
 Don't need a subscription? No problem!
 
+<div align="left">
+
 - **Buy Tokens Directly**: Purchase tokens as needed
 - **No Monthly Commitment**: Pay only when you use
 - **Flexible Usage**: Perfect for occasional content creation
 - **Same Features**: Access to all content generation tools
 
+</div>
+
+<div align="center">
+
+> 💡 **Perfect for:** Users who create content occasionally or want to test before committing to a subscription!
+
 ---
+
+</div>
 
 ## 🚀 Getting Started
 
@@ -167,6 +189,7 @@ Don't need a subscription? No problem!
 - Start with free account to explore
 - Upgrade when ready
 - Use coupon code **WELCOME15** for 15% off first 3 months
+- Or buy tokens only (no subscription needed)
 
 **Step 3: Connect Your Platforms**
 - Connect your social media accounts
@@ -194,6 +217,7 @@ Don't need a subscription? No problem!
 - Affordable pricing plans
 - **15% off** with coupon code WELCOME15
 - Free account option available
+- Buy tokens without subscription
 
 ### 🎯 Professional Results
 - AI-powered content that sounds natural

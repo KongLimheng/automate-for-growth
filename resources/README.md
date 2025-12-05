@@ -8,6 +8,7 @@ This section contains all the templates, checklists, code examples, and addition
 
 ---
 
+
 ## Platform Links
 
 ### Main Resources
